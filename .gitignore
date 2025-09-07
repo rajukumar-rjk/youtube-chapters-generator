@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Env
+.env
+
+# Cache
+cache.json
+
+# Streamlit logs
+.streamlit/
+
+# VS Code
+.vscode/
