@@ -10,7 +10,7 @@ from youtube_transcript_api import (
 )
 from openai import OpenAI
 from dotenv import load_dotenv
-from pytube import YouTube
+# from pytube import YouTube
 
 # ---------------- CONFIG ----------------
 load_dotenv()
